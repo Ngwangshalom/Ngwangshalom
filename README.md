@@ -18,7 +18,7 @@
 
 ```javascript
 const ngwang = {
-  role:        "Lead Engineer // Founder",
+  role:        "CTO // Lead Engineer ",
   stack:       ["frontend", "backend", "infra", "the 3am hotfix"],
   mindset:     "Built Different",
   limitations: null,
