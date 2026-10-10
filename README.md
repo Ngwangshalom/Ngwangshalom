@@ -18,7 +18,7 @@
 
 ```javascript
 const ngwang = {
-  role:        "CTO // Lead Engineer ",
+  role:        "CTO // Lead Engineer",
   stack:       ["frontend", "backend", "infra", "the 3am hotfix"],
   mindset:     "Built Different",
   limitations: null,
@@ -54,7 +54,8 @@ while (true) ngwang.ship(); // no break statement. ever.
 
 | | Project | Damage Report |
 |---|---|---|
-| 🎭 | **[Kattegat](https://kattegat.app)** | A full hospitality & entertainment marketplace. Web + mobile + infra. One engineer energy. Live. |
+| 🎭 | **[Kattegat](https://kattegat.app)** | Hospitality & entertainment marketplace. Venues and planners on one side, entertainers and staff on the other. Web + mobile + infra, self-deployed end to end. Live. |
+| 🕶️ | **Kopsala** | Classified. Being built in silence. You'll hear about it when it ships. |
 | ⚡ | **PulseStream** | Real-time updates so light your polling loop is embarrassed. |
 | 🤖 | **WandaBot** | WhatsApp automation. It works while you sleep. I don't sleep either. |
 | 💸 | **MTN Mobile Money API** | Payments integration. Money moves. Code doesn't flinch. |
@@ -81,16 +82,16 @@ while (true) ngwang.ship(); // no break statement. ever.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&count_private=true&custom_title=Proof%20Of%20Violence" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=39FF14&text_color=C9D1D9&custom_title=Weapons%20Of%20Choice" alt="langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ngwangshalom&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&count_private=true&custom_title=Proof%20Of%20Violence" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngwangshalom&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=39FF14&text_color=C9D1D9&custom_title=Weapons%20Of%20Choice" alt="langs" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Ngwangshalom&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0D0D&color=C9D1D9&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=Commit%20Heart%20Rate" width="100%" alt="activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ngwangshalom&bg_color=0D0D0D&color=C9D1D9&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=Commit%20Heart%20Rate" width="100%" alt="activity" />
 
 ### 🐍 WATCH IT EAT MY CONTRIBUTIONS
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/output/github-snake-dark.svg" alt="snake" />
 
 </div>
 
