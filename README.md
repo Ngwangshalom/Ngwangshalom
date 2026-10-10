@@ -87,7 +87,6 @@ while (true) ngwang.ship(); // no break statement. ever.
 
 <img src="https://streak-stats.demolab.com?user=Ngwangshalom&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ngwangshalom&bg_color=0D0D0D&color=C9D1D9&line=39FF14&point=FFFFFF&area=true&hide_border=true&custom_title=Commit%20Heart%20Rate" width="100%" alt="activity" />
 
 ### 🐍 WATCH IT EAT MY CONTRIBUTIONS
 
