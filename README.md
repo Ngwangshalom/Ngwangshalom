@@ -256,9 +256,15 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=Ngwangshalom&hide_border=true&background=0D0D0D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF" alt="streak" />
 
-### 🐍 WATCH IT EAT MY CONTRIBUTIONS
+### 🐍 WATCH IT EAT MY CONTRIBUTIONS. AND GROW.
 
-<img src="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/output/github-snake-dark.svg" width="100%" alt="snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/output/growing-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/output/growing-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/output/growing-snake-dark.svg" width="100%" alt="A snake that eats my contribution graph and grows with every day it eats" />
+</picture>
+
+<sub><i>Every day I commit, it gets longer. Draw your own conclusions.</i></sub>
 
 </div>
 
