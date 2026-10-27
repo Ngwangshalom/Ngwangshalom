@@ -259,9 +259,9 @@ flowchart LR
 ### 🐍 WATCH IT EAT MY CONTRIBUTIONS. AND GROW.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/output/growing-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/output/growing-snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/output/growing-snake-dark.svg" width="100%" alt="A snake that eats my contribution graph and grows with every day it eats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/snake/growing-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/snake/growing-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/Ngwangshalom/Ngwangshalom/snake/growing-snake-dark.svg" width="100%" alt="A snake that eats my contribution graph and grows with every day it eats" />
 </picture>
 
 <sub><i>Every day I commit, it gets longer. Draw your own conclusions.</i></sub>
